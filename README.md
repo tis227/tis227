@@ -173,28 +173,12 @@ Founding member of Lehigh's AIR Lab robotics club.
 
 ---
 
-## `06` &nbsp; GitHub Activity
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tis227&show_icons=true&hide_border=true&bg_color=0B1020&title_color=22D3EE&icon_color=7C3AED&text_color=CBD5E1&ring_color=22D3EE" alt="GitHub stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tis227&layout=compact&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=CBD5E1" alt="Most used languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tis227&hide_border=true&background=0B1020&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub contribution streak" width="70%"/>
-
-</div>
-
----
-
-<div align="center">
-
-### `BUILD • SHIP • ITERATE`
-
-*Always working on something new.*
+### `Always working on something new.`
 
 [![GitHub](https://img.shields.io/badge/GitHub-tis227-0B1020?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/tis227)
 
-<sub>Thanks for stopping by ✦</sub>
+<sub>Thanks for stopping by :)</sub>
 
 </div>

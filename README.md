@@ -1,5 +1,3 @@
-# Tian Hao Sheng
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0B1020,50:164E63,100:7C3AED&text=Tian%20Hao%20Sheng&fontColor=F0F9FF&fontSize=48&fontAlignY=42&desc=Software%20Engineering%20%7C%20AI%20%7C%20Systems&descSize=16&descAlignY=62&stroke=22D3EE&strokeWidth=1" width="100%" alt="Tian Hao Sheng — Software Engineering, AI, and Systems"/>
